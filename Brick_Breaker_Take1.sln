@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Brick_Breaker_Take1", "Brick_Breaker_Take1\Brick_Breaker_Take1.pyproj", "{4598099A-7829-4ABB-A0B5-56567D1D17B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{797786ED-735F-4AD3-808A-C9D42A5F77DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4598099A-7829-4ABB-A0B5-56567D1D17B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4598099A-7829-4ABB-A0B5-56567D1D17B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797786ED-735F-4AD3-808A-C9D42A5F77DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797786ED-735F-4AD3-808A-C9D42A5F77DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40149BB5-9055-4E25-8D96-11052ACD1084}
+	EndGlobalSection
+EndGlobal
